@@ -1,0 +1,12 @@
+import cv2
+img=cv2.imread(r"C:\Users\susha\deepfake detector\data\rahulphoto1.jpg")
+print(img)
+print(img.shape)
+gray=cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
+cv2.imwrite(r"C:\Users\susha\deepfake detector\data\rahulphoto1_gray.jpg",gray)
+cv2.imshow("rahul ka photo",img)
+cv2.waitKey(0)
+cv2.destroyAllWindows()
+cv2.imshow("rahul ka gray photo",gray)
+cv2.waitKey(0)
+cv2.destroyAllWindows()
