@@ -1,0 +1,69 @@
+{
+    "checkpoint": "C:\\Users\\am842\\Deepfake detection\\models\\deepfake_efficientnet_b0_final.pth",
+    "calibration_source": "C:\\Users\\am842\\Downloads\\archive (1)\\ddata\\train",
+    "calibration_images_used": 10000,
+    "calibration_real_images": 5000,
+    "calibration_fake_images": 5000,
+    "threshold_selection_rule": "maximize FAKE F1; break ties by higher FAKE recall",
+    "selected_threshold": 0.001,
+    "selected_calibration_metrics": {
+        "threshold": 0.001,
+        "accuracy": 0.9548,
+        "precision_fake": 0.9597654670440761,
+        "recall_fake": 0.9494,
+        "f1_fake": 0.9545545948119847,
+        "confusion_matrix_REAL_FAKE": [
+            [
+                4801,
+                199
+            ],
+            [
+                253,
+                4747
+            ]
+        ],
+        "real_misclassified_as_fake": 199,
+        "fake_misclassified_as_real": 253
+    },
+    "external_test_images": 21776,
+    "external_test_roc_auc": 0.9327485013598622,
+    "external_test_at_threshold_0.50": {
+        "threshold": 0.5,
+        "accuracy": 0.8127296105804556,
+        "precision_fake": 0.9075435203094777,
+        "recall_fake": 0.6767958457543994,
+        "f1_fake": 0.7753663104549962,
+        "confusion_matrix_REAL_FAKE": [
+            [
+                10660,
+                717
+            ],
+            [
+                3361,
+                7038
+            ]
+        ],
+        "real_misclassified_as_fake": 717,
+        "fake_misclassified_as_real": 3361
+    },
+    "external_test_at_calibrated_threshold": {
+        "threshold": 0.001,
+        "accuracy": 0.8527277736958119,
+        "precision_fake": 0.789207013028792,
+        "recall_fake": 0.9436484277334359,
+        "f1_fake": 0.8595453948232821,
+        "confusion_matrix_REAL_FAKE": [
+            [
+                8756,
+                2621
+            ],
+            [
+                586,
+                9813
+            ]
+        ],
+        "real_misclassified_as_fake": 2621,
+        "fake_misclassified_as_real": 586
+    },
+    "note": "Threshold was selected using the calibration subset of the train folder. The test folder was not used to select it. The model checkpoint was not changed."
+}

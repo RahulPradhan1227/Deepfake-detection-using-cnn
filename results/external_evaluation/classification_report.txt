@@ -1,0 +1,25 @@
+EXTERNAL TEST DATASET EVALUATION
+=======================================================
+Checkpoint: C:\Users\am842\Deepfake detection\models\deepfake_efficientnet_b0_final.pth
+Images evaluated: 21,776
+Images skipped: 0
+Threshold: 0.5
+
+Accuracy:  81.2730%
+Precision: 0.9075
+Recall:    0.6768
+F1-score:  0.7754
+ROC-AUC:   0.9327
+
+Confusion matrix (rows=true, columns=predicted; REAL, FAKE):
+[[10660   717]
+ [ 3361  7038]]
+
+              precision    recall  f1-score   support
+
+        REAL     0.7603    0.9370    0.8394     11377
+        FAKE     0.9075    0.6768    0.7754     10399
+
+    accuracy                         0.8127     21776
+   macro avg     0.8339    0.8069    0.8074     21776
+weighted avg     0.8306    0.8127    0.8088     21776

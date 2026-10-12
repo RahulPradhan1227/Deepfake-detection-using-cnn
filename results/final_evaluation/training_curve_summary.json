@@ -1,0 +1,16 @@
+{
+    "configuration": {
+        "name": "config_5",
+        "lr": 5e-05,
+        "weight_decay": 0.0001,
+        "dropout": 0.3,
+        "unfreeze_blocks": 5
+    },
+    "epochs_trained": 10,
+    "best_validation_accuracy": 0.8137254901960784,
+    "best_validation_f1": 0.7978723404255319,
+    "best_validation_auc": 0.8757105694190191,
+    "best_accuracy_epoch": 6,
+    "best_f1_epoch": 6,
+    "best_auc_epoch": 9
+}

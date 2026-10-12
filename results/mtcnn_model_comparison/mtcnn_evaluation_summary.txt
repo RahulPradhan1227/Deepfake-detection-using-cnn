@@ -1,0 +1,22 @@
+MTCNN MODEL COMPARISON
+========================================================================
+REAL = 0, FAKE = 1
+Calibration threshold: 0.523882
+Calibration FAKE F1: 93.9635%
+
+Original test images: 21776
+Faces evaluated: 21678
+No face detected: 98
+Unreadable: 0
+Processing errors: 0
+Face coverage: 99.55%
+
+Model / threshold              Accuracy   Precision    Recall        F1       AUC
+Old model / 0.5                 98.99%     99.62%   98.27%   98.94%   99.96%
+  Confusion matrix: [[11241, 39], [180, 10218]]
+Old model / 0.008               98.69%     97.53%   99.81%   98.65%   99.96%
+  Confusion matrix: [[11017, 263], [20, 10378]]
+New model / 0.5                 96.99%     98.75%   94.92%   96.80%   99.68%
+  Confusion matrix: [[11155, 125], [528, 9870]]
+New model / 0.5239              96.84%     98.87%   94.50%   96.64%   99.68%
+  Confusion matrix: [[11168, 112], [572, 9826]]

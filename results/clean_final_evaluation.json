@@ -1,0 +1,44 @@
+{
+    "model": "EfficientNet-B0",
+    "model_path": "C:\\Users\\am842\\Deepfake detection\\models\\efficientnet_b0_tuned_final.pth",
+    "configuration": {
+        "name": "config_5",
+        "lr": 5e-05,
+        "weight_decay": 0.0001,
+        "dropout": 0.3,
+        "unfreeze_blocks": 5
+    },
+    "image_size": 224,
+    "validation": {
+        "threshold_selected": 0.5,
+        "accuracy": 0.8137254901960784,
+        "precision": 0.8241758241758241,
+        "recall": 0.7731958762886598,
+        "f1": 0.7978723404255319
+    },
+    "test": {
+        "threshold": 0.5,
+        "accuracy": 0.7843137254901961,
+        "precision": 0.7954545454545454,
+        "recall": 0.7291666666666666,
+        "f1": 0.7608695652173914,
+        "roc_auc": 0.8579282407407407,
+        "confusion_matrix": [
+            [
+                90,
+                18
+            ],
+            [
+                26,
+                70
+            ]
+        ]
+    },
+    "test_default_0.50": {
+        "accuracy": 0.7843137254901961,
+        "precision": 0.7954545454545454,
+        "recall": 0.7291666666666666,
+        "f1": 0.7608695652173914,
+        "roc_auc": 0.8579282407407407
+    }
+}

@@ -1,0 +1,52 @@
+EXTERNAL TEST: THRESHOLD CALIBRATION
+============================================================
+Calibration threshold: 0.097491
+Calibration best FAKE F1: 0.887463
+External test images: 21776
+
+
+OLD_MODEL
+----------------------------------------
+
+Threshold: 0.5
+accuracy: 0.8127296105804556
+precision_fake: 0.9075435203094777
+recall_fake: 0.6767958457543994
+f1_fake: 0.7753663104549962
+roc_auc: 0.9327491564218008
+fake_predicted_real: 3361
+real_predicted_fake: 717
+Confusion matrix: [[10660, 717], [3361, 7038]]
+
+Threshold: 0.008
+accuracy: 0.8647134459955915
+precision_fake: 0.8339456940586074
+recall_fake: 0.8948937397826714
+f1_fake: 0.8633453938213193
+roc_auc: 0.9327491564218008
+fake_predicted_real: 1093
+real_predicted_fake: 1853
+Confusion matrix: [[9524, 1853], [1093, 9306]]
+
+NEW_MODEL
+----------------------------------------
+
+Threshold: 0.5
+accuracy: 0.8131888317413667
+precision_fake: 0.9852828453165722
+recall_fake: 0.6180401961727089
+f1_fake: 0.7596028838198794
+roc_auc: 0.9727202413961568
+fake_predicted_real: 3972
+real_predicted_fake: 96
+Confusion matrix: [[11281, 96], [3972, 6427]]
+
+Threshold: calibrated
+accuracy: 0.9129775900073476
+precision_fake: 0.9208234362628662
+recall_fake: 0.8947014135974612
+f1_fake: 0.9075745012924937
+roc_auc: 0.9727202413961568
+fake_predicted_real: 1095
+real_predicted_fake: 800
+Confusion matrix: [[10577, 800], [1095, 9304]]

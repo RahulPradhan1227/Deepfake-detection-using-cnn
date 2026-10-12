@@ -1,0 +1,113 @@
+{
+  "calibration_source": "C:\\Users\\am842\\Downloads\\archive (1)\\ddata\\train",
+  "calibration_images_per_class": 3000,
+  "calibration_seed": 42,
+  "selected_new_model_threshold": 0.09749095886945724,
+  "calibration_best_fake_f1": 0.8874629812433302,
+  "test_source": "C:\\Users\\am842\\Downloads\\archive (1)\\ddata\\test",
+  "test_images": 21776,
+  "models": {
+    "old_model": {
+      "checkpoint": "C:\\Users\\am842\\Deepfake detection\\models\\deepfake_efficientnet_b0_final.pth",
+      "threshold_results": {
+        "0.5": {
+          "threshold": 0.5,
+          "accuracy": 0.8127296105804556,
+          "precision_fake": 0.9075435203094777,
+          "recall_fake": 0.6767958457543994,
+          "f1_fake": 0.7753663104549962,
+          "roc_auc": 0.9327491564218008,
+          "true_real_predicted_real": 10660,
+          "real_predicted_fake": 717,
+          "fake_predicted_real": 3361,
+          "true_fake_predicted_fake": 7038,
+          "confusion_matrix": [
+            [
+              10660,
+              717
+            ],
+            [
+              3361,
+              7038
+            ]
+          ],
+          "total_images": 21776
+        },
+        "0.008": {
+          "threshold": 0.008,
+          "accuracy": 0.8647134459955915,
+          "precision_fake": 0.8339456940586074,
+          "recall_fake": 0.8948937397826714,
+          "f1_fake": 0.8633453938213193,
+          "roc_auc": 0.9327491564218008,
+          "true_real_predicted_real": 9524,
+          "real_predicted_fake": 1853,
+          "fake_predicted_real": 1093,
+          "true_fake_predicted_fake": 9306,
+          "confusion_matrix": [
+            [
+              9524,
+              1853
+            ],
+            [
+              1093,
+              9306
+            ]
+          ],
+          "total_images": 21776
+        }
+      }
+    },
+    "new_model": {
+      "checkpoint": "C:\\Users\\am842\\Deepfake detection\\models\\deepfake_efficientnet_b0_30k_experiment.pth",
+      "threshold_results": {
+        "0.5": {
+          "threshold": 0.5,
+          "accuracy": 0.8131888317413667,
+          "precision_fake": 0.9852828453165722,
+          "recall_fake": 0.6180401961727089,
+          "f1_fake": 0.7596028838198794,
+          "roc_auc": 0.9727202413961568,
+          "true_real_predicted_real": 11281,
+          "real_predicted_fake": 96,
+          "fake_predicted_real": 3972,
+          "true_fake_predicted_fake": 6427,
+          "confusion_matrix": [
+            [
+              11281,
+              96
+            ],
+            [
+              3972,
+              6427
+            ]
+          ],
+          "total_images": 21776
+        },
+        "calibrated": {
+          "threshold": 0.09749095886945724,
+          "accuracy": 0.9129775900073476,
+          "precision_fake": 0.9208234362628662,
+          "recall_fake": 0.8947014135974612,
+          "f1_fake": 0.9075745012924937,
+          "roc_auc": 0.9727202413961568,
+          "true_real_predicted_real": 10577,
+          "real_predicted_fake": 800,
+          "fake_predicted_real": 1095,
+          "true_fake_predicted_fake": 9304,
+          "confusion_matrix": [
+            [
+              10577,
+              800
+            ],
+            [
+              1095,
+              9304
+            ]
+          ],
+          "total_images": 21776
+        }
+      }
+    }
+  }
+}

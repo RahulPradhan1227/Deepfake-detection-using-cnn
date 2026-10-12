@@ -1,0 +1,1634 @@
+[
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00604.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.7685136198997498,
+        "real_probability": 0.23148638010025024,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00233.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.0337338000535965,
+        "real_probability": 0.9662662148475647,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00069.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.9969218373298645,
+        "real_probability": 0.003078162670135498,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00087.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.039418768137693405,
+        "real_probability": 0.9605812430381775,
+        "correct": false
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00167.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.20516203343868256,
+        "real_probability": 0.7948379516601562,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00161.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.9776549339294434,
+        "real_probability": 0.02234506607055664,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00566.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.022871481254696846,
+        "real_probability": 0.9771285057067871,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00053.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.2955048680305481,
+        "real_probability": 0.7044951319694519,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00023.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.9980119466781616,
+        "real_probability": 0.001988053321838379,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00876.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.34405583143234253,
+        "real_probability": 0.6559441685676575,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00391.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.021306021139025688,
+        "real_probability": 0.978693962097168,
+        "correct": false
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00526.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.33199381828308105,
+        "real_probability": 0.668006181716919,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00784.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.07956632971763611,
+        "real_probability": 0.9204336404800415,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00729.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.16853533685207367,
+        "real_probability": 0.8314646482467651,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00424.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.9835397005081177,
+        "real_probability": 0.016460299491882324,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00695.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.15287090837955475,
+        "real_probability": 0.8471291065216064,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00122.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.2892935574054718,
+        "real_probability": 0.7107064723968506,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00292.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.5091684460639954,
+        "real_probability": 0.49083155393600464,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00462.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.19226109981536865,
+        "real_probability": 0.8077389001846313,
+        "correct": false
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00771.jpg",
+        "true_label": "REAL",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.8279679417610168,
+        "real_probability": 0.17203205823898315,
+        "correct": false
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00840.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.9786296486854553,
+        "real_probability": 0.021370351314544678,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00881.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.24772553145885468,
+        "real_probability": 0.7522744536399841,
+        "correct": false
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00117.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.9175164699554443,
+        "real_probability": 0.08248353004455566,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00650.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.06482807546854019,
+        "real_probability": 0.935171902179718,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_01032.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.1550550013780594,
+        "real_probability": 0.8449450135231018,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00836.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.9869773983955383,
+        "real_probability": 0.01302260160446167,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00935.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.02183450385928154,
+        "real_probability": 0.9781655073165894,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00815.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.956800639629364,
+        "real_probability": 0.043199360370635986,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00285.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.5409044623374939,
+        "real_probability": 0.4590955376625061,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00512.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.024087728932499886,
+        "real_probability": 0.9759122729301453,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00345.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.2794930934906006,
+        "real_probability": 0.7205069065093994,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_01018.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.22059087455272675,
+        "real_probability": 0.7794091105461121,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00609.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.05369604378938675,
+        "real_probability": 0.9463039636611938,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00049.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.25737202167510986,
+        "real_probability": 0.7426279783248901,
+        "correct": false
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00032.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.9830566048622131,
+        "real_probability": 0.016943395137786865,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00157.jpg",
+        "true_label": "REAL",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.8996105194091797,
+        "real_probability": 0.10038948059082031,
+        "correct": false
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00602.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.9977630376815796,
+        "real_probability": 0.00223696231842041,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00015.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.2731332778930664,
+        "real_probability": 0.7268667221069336,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00055.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.9488846659660339,
+        "real_probability": 0.051115334033966064,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00677.jpg",
+        "true_label": "REAL",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.8893613219261169,
+        "real_probability": 0.11063867807388306,
+        "correct": false
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00630.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.693958044052124,
+        "real_probability": 0.306041955947876,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00207.jpg",
+        "true_label": "REAL",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.7013954520225525,
+        "real_probability": 0.2986045479774475,
+        "correct": false
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00641.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.19937877357006073,
+        "real_probability": 0.8006212115287781,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00561.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.328758180141449,
+        "real_probability": 0.671241819858551,
+        "correct": false
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00752.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.39802002906799316,
+        "real_probability": 0.6019799709320068,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00349.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.6032313704490662,
+        "real_probability": 0.39676862955093384,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00242.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.020568806678056717,
+        "real_probability": 0.9794312119483948,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00202.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.0503857247531414,
+        "real_probability": 0.9496142864227295,
+        "correct": false
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00148.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.5781048536300659,
+        "real_probability": 0.4218951463699341,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00036.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.004315126221626997,
+        "real_probability": 0.9956848621368408,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00529.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.8690401911735535,
+        "real_probability": 0.13095980882644653,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00929.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.9978569149971008,
+        "real_probability": 0.00214308500289917,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00794.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.9815395474433899,
+        "real_probability": 0.018460452556610107,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00014.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.3880314528942108,
+        "real_probability": 0.6119685173034668,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00239.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.6751968264579773,
+        "real_probability": 0.3248031735420227,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00736.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.3529040813446045,
+        "real_probability": 0.6470959186553955,
+        "correct": false
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00824.jpg",
+        "true_label": "REAL",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.6359661817550659,
+        "real_probability": 0.3640338182449341,
+        "correct": false
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00905.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.347581148147583,
+        "real_probability": 0.652418851852417,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00643.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.07166451960802078,
+        "real_probability": 0.9283354878425598,
+        "correct": false
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00942.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.9968558549880981,
+        "real_probability": 0.0031441450119018555,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00627.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.9724713563919067,
+        "real_probability": 0.02752864360809326,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00781.jpg",
+        "true_label": "REAL",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.6342486143112183,
+        "real_probability": 0.36575138568878174,
+        "correct": false
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_01028.jpg",
+        "true_label": "REAL",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.7288687825202942,
+        "real_probability": 0.2711312174797058,
+        "correct": false
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00309.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.059556618332862854,
+        "real_probability": 0.9404433965682983,
+        "correct": false
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00975.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.4989909529685974,
+        "real_probability": 0.5010090470314026,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00576.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.0538259893655777,
+        "real_probability": 0.9461740255355835,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00179.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.22188696265220642,
+        "real_probability": 0.7781130075454712,
+        "correct": false
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00903.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.33378589153289795,
+        "real_probability": 0.666214108467102,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00162.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.8302487134933472,
+        "real_probability": 0.16975128650665283,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00156.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.3663749694824219,
+        "real_probability": 0.6336250305175781,
+        "correct": false
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00231.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.205381378531456,
+        "real_probability": 0.7946186065673828,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00234.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.05663635954260826,
+        "real_probability": 0.9433636665344238,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00461.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.010536560788750648,
+        "real_probability": 0.9894634485244751,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00664.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.9307350516319275,
+        "real_probability": 0.06926494836807251,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00408.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.060628488659858704,
+        "real_probability": 0.9393715262413025,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00734.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.453897088766098,
+        "real_probability": 0.5461028814315796,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00182.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.8479322195053101,
+        "real_probability": 0.15206778049468994,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00689.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.3820992410182953,
+        "real_probability": 0.6179007291793823,
+        "correct": false
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00157.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.9989984631538391,
+        "real_probability": 0.0010015368461608887,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00474.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.026440022513270378,
+        "real_probability": 0.9735599756240845,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00399.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.0843215212225914,
+        "real_probability": 0.9156785011291504,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00054.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.988958477973938,
+        "real_probability": 0.011041522026062012,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00386.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.09707958996295929,
+        "real_probability": 0.9029204249382019,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00877.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.28660422563552856,
+        "real_probability": 0.7133957743644714,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00371.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.9611604809761047,
+        "real_probability": 0.038839519023895264,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00463.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.089955173432827,
+        "real_probability": 0.9100448489189148,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00550.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.9437772035598755,
+        "real_probability": 0.05622279644012451,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00361.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.9672579169273376,
+        "real_probability": 0.032742083072662354,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00217.jpg",
+        "true_label": "REAL",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.6912603974342346,
+        "real_probability": 0.3087396025657654,
+        "correct": false
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00803.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.9151146411895752,
+        "real_probability": 0.0848853588104248,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00283.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.27916377782821655,
+        "real_probability": 0.7208362221717834,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00800.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.034714408218860626,
+        "real_probability": 0.96528559923172,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00806.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.8710842132568359,
+        "real_probability": 0.12891578674316406,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00594.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.14134523272514343,
+        "real_probability": 0.8586547374725342,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00259.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.23441316187381744,
+        "real_probability": 0.7655868530273438,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00623.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.9859791398048401,
+        "real_probability": 0.014020860195159912,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00966.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.34523582458496094,
+        "real_probability": 0.6547641754150391,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00614.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.45553356409072876,
+        "real_probability": 0.5444664359092712,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00714.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.05652521550655365,
+        "real_probability": 0.9434747695922852,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00160.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.21273241937160492,
+        "real_probability": 0.7872675657272339,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00982.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.035429831594228745,
+        "real_probability": 0.964570164680481,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00008.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.9921966791152954,
+        "real_probability": 0.00780332088470459,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00473.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.01760045625269413,
+        "real_probability": 0.9823995232582092,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00869.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.013993951492011547,
+        "real_probability": 0.9860060214996338,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00828.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.8650757074356079,
+        "real_probability": 0.1349242925643921,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00555.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.49793410301208496,
+        "real_probability": 0.502065896987915,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00567.jpg",
+        "true_label": "REAL",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.9412562847137451,
+        "real_probability": 0.05874371528625488,
+        "correct": false
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00407.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.4535689353942871,
+        "real_probability": 0.5464310646057129,
+        "correct": false
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00856.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.9706277847290039,
+        "real_probability": 0.029372215270996094,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00131.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.06503792107105255,
+        "real_probability": 0.9349620938301086,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00347.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.38937124609947205,
+        "real_probability": 0.6106287240982056,
+        "correct": false
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00590.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.18076662719249725,
+        "real_probability": 0.8192333579063416,
+        "correct": false
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_01072.jpg",
+        "true_label": "REAL",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.7081145644187927,
+        "real_probability": 0.2918854355812073,
+        "correct": false
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_01075.jpg",
+        "true_label": "REAL",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.7746285796165466,
+        "real_probability": 0.22537142038345337,
+        "correct": false
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00640.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.966842532157898,
+        "real_probability": 0.03315746784210205,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00120.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.6858341097831726,
+        "real_probability": 0.3141658902168274,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00210.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.9431468844413757,
+        "real_probability": 0.05685311555862427,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_01019.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.13592417538166046,
+        "real_probability": 0.8640758395195007,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00393.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.012389058247208595,
+        "real_probability": 0.987610936164856,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00644.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.03162480518221855,
+        "real_probability": 0.9683752059936523,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00222.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.313163697719574,
+        "real_probability": 0.686836302280426,
+        "correct": false
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00099.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.01499093696475029,
+        "real_probability": 0.9850090742111206,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00707.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.2709405720233917,
+        "real_probability": 0.7290594577789307,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00296.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.9271355867385864,
+        "real_probability": 0.07286441326141357,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00647.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.14064887166023254,
+        "real_probability": 0.8593511581420898,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00180.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.9900516867637634,
+        "real_probability": 0.009948313236236572,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00327.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.18191945552825928,
+        "real_probability": 0.8180805444717407,
+        "correct": false
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00962.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.007863123901188374,
+        "real_probability": 0.9921368956565857,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00846.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.005916678346693516,
+        "real_probability": 0.9940833449363708,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00706.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.006389958783984184,
+        "real_probability": 0.9936100244522095,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_01000.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.13608504831790924,
+        "real_probability": 0.863914966583252,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00190.jpg",
+        "true_label": "REAL",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.6180926561355591,
+        "real_probability": 0.3819073438644409,
+        "correct": false
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00332.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.2794412076473236,
+        "real_probability": 0.720558762550354,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00866.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.05060865357518196,
+        "real_probability": 0.9493913650512695,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00579.jpg",
+        "true_label": "REAL",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.8016654253005981,
+        "real_probability": 0.19833457469940186,
+        "correct": false
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00862.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.2197115421295166,
+        "real_probability": 0.7802884578704834,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00837.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.02811182662844658,
+        "real_probability": 0.9718881845474243,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00241.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.06877268850803375,
+        "real_probability": 0.9312273263931274,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00914.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.9626789093017578,
+        "real_probability": 0.03732109069824219,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00621.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.06034240499138832,
+        "real_probability": 0.9396575689315796,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00778.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.6952577829360962,
+        "real_probability": 0.3047422170639038,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00028.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.061070095747709274,
+        "real_probability": 0.9389299154281616,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00888.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.7913916110992432,
+        "real_probability": 0.20860838890075684,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00202.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.34764572978019714,
+        "real_probability": 0.6523542404174805,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00935.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.920247495174408,
+        "real_probability": 0.07975250482559204,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00270.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.4716871678829193,
+        "real_probability": 0.5283128023147583,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00254.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.40356171131134033,
+        "real_probability": 0.5964382886886597,
+        "correct": false
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00825.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.1584024727344513,
+        "real_probability": 0.8415975570678711,
+        "correct": false
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_01051.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.04979688674211502,
+        "real_probability": 0.9502031207084656,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00613.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.5026359558105469,
+        "real_probability": 0.4973640441894531,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00542.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.05908821150660515,
+        "real_probability": 0.9409117698669434,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00674.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.4600498080253601,
+        "real_probability": 0.5399501919746399,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00420.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.7644217014312744,
+        "real_probability": 0.23557829856872559,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00318.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.5113134980201721,
+        "real_probability": 0.4886865019798279,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00913.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.04354473948478699,
+        "real_probability": 0.9564552307128906,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00504.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.202163964509964,
+        "real_probability": 0.7978360652923584,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00277.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.11535482853651047,
+        "real_probability": 0.8846451640129089,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00656.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.009478605352342129,
+        "real_probability": 0.9905213713645935,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00662.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.18255829811096191,
+        "real_probability": 0.8174417018890381,
+        "correct": false
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00844.jpg",
+        "true_label": "REAL",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.5117036700248718,
+        "real_probability": 0.4882963299751282,
+        "correct": false
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00063.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.07734165340662003,
+        "real_probability": 0.9226583242416382,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00609.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.9988855719566345,
+        "real_probability": 0.0011144280433654785,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00005.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.0021682055667042732,
+        "real_probability": 0.9978318214416504,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00755.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.22333687543869019,
+        "real_probability": 0.7766631245613098,
+        "correct": false
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00029.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.08050477504730225,
+        "real_probability": 0.9194952249526978,
+        "correct": false
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00579.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.9880752563476562,
+        "real_probability": 0.01192474365234375,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00724.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.19991296529769897,
+        "real_probability": 0.800087034702301,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00773.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.04591469466686249,
+        "real_probability": 0.9540852904319763,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00035.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.17891433835029602,
+        "real_probability": 0.8210856914520264,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00732.jpg",
+        "true_label": "REAL",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.7021381855010986,
+        "real_probability": 0.29786181449890137,
+        "correct": false
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00429.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.868127703666687,
+        "real_probability": 0.131872296333313,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00403.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.05343672260642052,
+        "real_probability": 0.9465633034706116,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00095.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.7307339310646057,
+        "real_probability": 0.2692660689353943,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00022.jpg",
+        "true_label": "REAL",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.7729954719543457,
+        "real_probability": 0.2270045280456543,
+        "correct": false
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00895.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.9313509464263916,
+        "real_probability": 0.0686490535736084,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00457.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.019541695713996887,
+        "real_probability": 0.9804583191871643,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00084.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.3063076138496399,
+        "real_probability": 0.6936923861503601,
+        "correct": false
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00346.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.9573042392730713,
+        "real_probability": 0.04269576072692871,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00967.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.06400598585605621,
+        "real_probability": 0.935994029045105,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00139.jpg",
+        "true_label": "REAL",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.8944664597511292,
+        "real_probability": 0.10553354024887085,
+        "correct": false
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00288.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.5665256977081299,
+        "real_probability": 0.4334743022918701,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00130.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.9986555576324463,
+        "real_probability": 0.001344442367553711,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00965.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.006198442075401545,
+        "real_probability": 0.9938015341758728,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00648.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.9785066246986389,
+        "real_probability": 0.021493375301361084,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00831.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.9586798548698425,
+        "real_probability": 0.04132014513015747,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00872.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.9978452920913696,
+        "real_probability": 0.002154707908630371,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00065.jpg",
+        "true_label": "REAL",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.7285100221633911,
+        "real_probability": 0.2714899778366089,
+        "correct": false
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00443.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.9345780611038208,
+        "real_probability": 0.0654219388961792,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00360.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.34165433049201965,
+        "real_probability": 0.6583456993103027,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00629.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.03929709270596504,
+        "real_probability": 0.9607028961181641,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00712.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.9104747176170349,
+        "real_probability": 0.08952528238296509,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00666.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.9894086122512817,
+        "real_probability": 0.010591387748718262,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00870.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.9906569719314575,
+        "real_probability": 0.00934302806854248,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00821.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.016383066773414612,
+        "real_probability": 0.9836169481277466,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00021.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.03401506692171097,
+        "real_probability": 0.9659849405288696,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00302.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.7249831557273865,
+        "real_probability": 0.2750168442726135,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00342.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.18543657660484314,
+        "real_probability": 0.8145633935928345,
+        "correct": false
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00001.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.23500129580497742,
+        "real_probability": 0.7649986743927002,
+        "correct": false
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00144.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.9758993983268738,
+        "real_probability": 0.02410060167312622,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00768.jpg",
+        "true_label": "REAL",
+        "predicted_label": "REAL",
+        "deepfake_probability": 0.019353093579411507,
+        "real_probability": 0.9806469082832336,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00194.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.9874089956283569,
+        "real_probability": 0.012591004371643066,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00175.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.9755800366401672,
+        "real_probability": 0.024419963359832764,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00452.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.5090944170951843,
+        "real_probability": 0.4909055829048157,
+        "correct": true
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00218.jpg",
+        "true_label": "DEEPFAKE",
+        "predicted_label": "DEEPFAKE",
+        "deepfake_probability": 0.9873025417327881,
+        "real_probability": 0.012697458267211914,
+        "correct": true
+    }
+]

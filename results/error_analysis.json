@@ -1,0 +1,786 @@
+[
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00007.jpg",
+        "actual": "FAKE",
+        "predicted": "REAL",
+        "probability_fake": 5.289417970288923e-08,
+        "error_type": "FALSE_REAL"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00008.jpg",
+        "actual": "FAKE",
+        "predicted": "REAL",
+        "probability_fake": 0.018517596647143364,
+        "error_type": "FALSE_REAL"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00038.jpg",
+        "actual": "FAKE",
+        "predicted": "REAL",
+        "probability_fake": 0.005753501784056425,
+        "error_type": "FALSE_REAL"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00041.jpg",
+        "actual": "FAKE",
+        "predicted": "REAL",
+        "probability_fake": 0.00026345401420257986,
+        "error_type": "FALSE_REAL"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00081.jpg",
+        "actual": "FAKE",
+        "predicted": "REAL",
+        "probability_fake": 0.3501605987548828,
+        "error_type": "FALSE_REAL"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00155.jpg",
+        "actual": "FAKE",
+        "predicted": "REAL",
+        "probability_fake": 0.18627716600894928,
+        "error_type": "FALSE_REAL"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00167.jpg",
+        "actual": "FAKE",
+        "predicted": "REAL",
+        "probability_fake": 2.7425292046245886e-06,
+        "error_type": "FALSE_REAL"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00176.jpg",
+        "actual": "FAKE",
+        "predicted": "REAL",
+        "probability_fake": 1.5217645454868034e-07,
+        "error_type": "FALSE_REAL"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00186.jpg",
+        "actual": "FAKE",
+        "predicted": "REAL",
+        "probability_fake": 0.014483805745840073,
+        "error_type": "FALSE_REAL"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00198.jpg",
+        "actual": "FAKE",
+        "predicted": "REAL",
+        "probability_fake": 0.3104631006717682,
+        "error_type": "FALSE_REAL"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00210.jpg",
+        "actual": "FAKE",
+        "predicted": "REAL",
+        "probability_fake": 0.1925586760044098,
+        "error_type": "FALSE_REAL"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00228.jpg",
+        "actual": "FAKE",
+        "predicted": "REAL",
+        "probability_fake": 0.058833047747612,
+        "error_type": "FALSE_REAL"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_00236.jpg",
+        "actual": "FAKE",
+        "predicted": "REAL",
+        "probability_fake": 0.0027506917249411345,
+        "error_type": "FALSE_REAL"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_01164.jpg",
+        "actual": "FAKE",
+        "predicted": "REAL",
+        "probability_fake": 0.0059255026280879974,
+        "error_type": "FALSE_REAL"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_03682.jpg",
+        "actual": "FAKE",
+        "predicted": "REAL",
+        "probability_fake": 0.14191468060016632,
+        "error_type": "FALSE_REAL"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_09059.jpg",
+        "actual": "FAKE",
+        "predicted": "REAL",
+        "probability_fake": 0.3767321705818176,
+        "error_type": "FALSE_REAL"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_11415.jpg",
+        "actual": "FAKE",
+        "predicted": "REAL",
+        "probability_fake": 0.4617828130722046,
+        "error_type": "FALSE_REAL"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_14781.jpg",
+        "actual": "FAKE",
+        "predicted": "REAL",
+        "probability_fake": 0.12110015749931335,
+        "error_type": "FALSE_REAL"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_15541.jpg",
+        "actual": "FAKE",
+        "predicted": "REAL",
+        "probability_fake": 0.23915517330169678,
+        "error_type": "FALSE_REAL"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_16820.jpg",
+        "actual": "FAKE",
+        "predicted": "REAL",
+        "probability_fake": 0.25790756940841675,
+        "error_type": "FALSE_REAL"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_21826.jpg",
+        "actual": "FAKE",
+        "predicted": "REAL",
+        "probability_fake": 0.2967425584793091,
+        "error_type": "FALSE_REAL"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_21875.jpg",
+        "actual": "FAKE",
+        "predicted": "REAL",
+        "probability_fake": 0.012218666262924671,
+        "error_type": "FALSE_REAL"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_22855.jpg",
+        "actual": "FAKE",
+        "predicted": "REAL",
+        "probability_fake": 0.4172002077102661,
+        "error_type": "FALSE_REAL"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_24385.jpg",
+        "actual": "FAKE",
+        "predicted": "REAL",
+        "probability_fake": 0.48661696910858154,
+        "error_type": "FALSE_REAL"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_25191.jpg",
+        "actual": "FAKE",
+        "predicted": "REAL",
+        "probability_fake": 8.038290616241284e-06,
+        "error_type": "FALSE_REAL"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_27218.jpg",
+        "actual": "FAKE",
+        "predicted": "REAL",
+        "probability_fake": 0.00393704092130065,
+        "error_type": "FALSE_REAL"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_28884.jpg",
+        "actual": "FAKE",
+        "predicted": "REAL",
+        "probability_fake": 0.001678427099250257,
+        "error_type": "FALSE_REAL"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_31688.jpg",
+        "actual": "FAKE",
+        "predicted": "REAL",
+        "probability_fake": 0.04927775263786316,
+        "error_type": "FALSE_REAL"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_33536.jpg",
+        "actual": "FAKE",
+        "predicted": "REAL",
+        "probability_fake": 5.8937639551004395e-05,
+        "error_type": "FALSE_REAL"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_34028.jpg",
+        "actual": "FAKE",
+        "predicted": "REAL",
+        "probability_fake": 0.014566724188625813,
+        "error_type": "FALSE_REAL"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_34230.jpg",
+        "actual": "FAKE",
+        "predicted": "REAL",
+        "probability_fake": 0.4998273253440857,
+        "error_type": "FALSE_REAL"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_41685.jpg",
+        "actual": "FAKE",
+        "predicted": "REAL",
+        "probability_fake": 0.00022650173923466355,
+        "error_type": "FALSE_REAL"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_45781.jpg",
+        "actual": "FAKE",
+        "predicted": "REAL",
+        "probability_fake": 0.004235026892274618,
+        "error_type": "FALSE_REAL"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_47840.jpg",
+        "actual": "FAKE",
+        "predicted": "REAL",
+        "probability_fake": 0.16793370246887207,
+        "error_type": "FALSE_REAL"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_52252.jpg",
+        "actual": "FAKE",
+        "predicted": "REAL",
+        "probability_fake": 0.0003797123790718615,
+        "error_type": "FALSE_REAL"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_52283.jpg",
+        "actual": "FAKE",
+        "predicted": "REAL",
+        "probability_fake": 0.0008885263814590871,
+        "error_type": "FALSE_REAL"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_52303.jpg",
+        "actual": "FAKE",
+        "predicted": "REAL",
+        "probability_fake": 0.01105191558599472,
+        "error_type": "FALSE_REAL"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_52310.jpg",
+        "actual": "FAKE",
+        "predicted": "REAL",
+        "probability_fake": 0.009052782319486141,
+        "error_type": "FALSE_REAL"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_52336.jpg",
+        "actual": "FAKE",
+        "predicted": "REAL",
+        "probability_fake": 0.47596418857574463,
+        "error_type": "FALSE_REAL"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_52381.jpg",
+        "actual": "FAKE",
+        "predicted": "REAL",
+        "probability_fake": 0.00019010873802471906,
+        "error_type": "FALSE_REAL"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_52388.jpg",
+        "actual": "FAKE",
+        "predicted": "REAL",
+        "probability_fake": 0.2675968408584595,
+        "error_type": "FALSE_REAL"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_52391.jpg",
+        "actual": "FAKE",
+        "predicted": "REAL",
+        "probability_fake": 9.443370799999684e-05,
+        "error_type": "FALSE_REAL"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_52403.jpg",
+        "actual": "FAKE",
+        "predicted": "REAL",
+        "probability_fake": 0.10897492617368698,
+        "error_type": "FALSE_REAL"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_52406.jpg",
+        "actual": "FAKE",
+        "predicted": "REAL",
+        "probability_fake": 0.060157690197229385,
+        "error_type": "FALSE_REAL"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_52418.jpg",
+        "actual": "FAKE",
+        "predicted": "REAL",
+        "probability_fake": 1.7898350051837042e-05,
+        "error_type": "FALSE_REAL"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_52454.jpg",
+        "actual": "FAKE",
+        "predicted": "REAL",
+        "probability_fake": 0.0015861599240452051,
+        "error_type": "FALSE_REAL"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_52478.jpg",
+        "actual": "FAKE",
+        "predicted": "REAL",
+        "probability_fake": 0.052045054733753204,
+        "error_type": "FALSE_REAL"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_52537.jpg",
+        "actual": "FAKE",
+        "predicted": "REAL",
+        "probability_fake": 0.030093960464000702,
+        "error_type": "FALSE_REAL"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_52600.jpg",
+        "actual": "FAKE",
+        "predicted": "REAL",
+        "probability_fake": 0.06729777902364731,
+        "error_type": "FALSE_REAL"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_52607.jpg",
+        "actual": "FAKE",
+        "predicted": "REAL",
+        "probability_fake": 0.13605456054210663,
+        "error_type": "FALSE_REAL"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_52671.jpg",
+        "actual": "FAKE",
+        "predicted": "REAL",
+        "probability_fake": 0.01108914241194725,
+        "error_type": "FALSE_REAL"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_52742.jpg",
+        "actual": "FAKE",
+        "predicted": "REAL",
+        "probability_fake": 0.07715805619955063,
+        "error_type": "FALSE_REAL"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_52744.jpg",
+        "actual": "FAKE",
+        "predicted": "REAL",
+        "probability_fake": 0.001988183008506894,
+        "error_type": "FALSE_REAL"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_52769.jpg",
+        "actual": "FAKE",
+        "predicted": "REAL",
+        "probability_fake": 0.027050213888287544,
+        "error_type": "FALSE_REAL"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_52770.jpg",
+        "actual": "FAKE",
+        "predicted": "REAL",
+        "probability_fake": 0.0066650439985096455,
+        "error_type": "FALSE_REAL"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_52793.jpg",
+        "actual": "FAKE",
+        "predicted": "REAL",
+        "probability_fake": 0.04265330731868744,
+        "error_type": "FALSE_REAL"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_52824.jpg",
+        "actual": "FAKE",
+        "predicted": "REAL",
+        "probability_fake": 0.035523105412721634,
+        "error_type": "FALSE_REAL"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_52830.jpg",
+        "actual": "FAKE",
+        "predicted": "REAL",
+        "probability_fake": 0.0031961542554199696,
+        "error_type": "FALSE_REAL"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_52843.jpg",
+        "actual": "FAKE",
+        "predicted": "REAL",
+        "probability_fake": 0.1622936725616455,
+        "error_type": "FALSE_REAL"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\fake\\fake_52899.jpg",
+        "actual": "FAKE",
+        "predicted": "REAL",
+        "probability_fake": 0.3652621805667877,
+        "error_type": "FALSE_REAL"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_00558.jpg",
+        "actual": "REAL",
+        "predicted": "FAKE",
+        "probability_fake": 0.8371087312698364,
+        "error_type": "FALSE_FAKE"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_01253.jpg",
+        "actual": "REAL",
+        "predicted": "FAKE",
+        "probability_fake": 0.7950832843780518,
+        "error_type": "FALSE_FAKE"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_01814.jpg",
+        "actual": "REAL",
+        "predicted": "FAKE",
+        "probability_fake": 0.7078843712806702,
+        "error_type": "FALSE_FAKE"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_04584.jpg",
+        "actual": "REAL",
+        "predicted": "FAKE",
+        "probability_fake": 0.5999467372894287,
+        "error_type": "FALSE_FAKE"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_05067.jpg",
+        "actual": "REAL",
+        "predicted": "FAKE",
+        "probability_fake": 0.9943033456802368,
+        "error_type": "FALSE_FAKE"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_08414.jpg",
+        "actual": "REAL",
+        "predicted": "FAKE",
+        "probability_fake": 0.92803955078125,
+        "error_type": "FALSE_FAKE"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_08523.jpg",
+        "actual": "REAL",
+        "predicted": "FAKE",
+        "probability_fake": 0.9970550537109375,
+        "error_type": "FALSE_FAKE"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_09345.jpg",
+        "actual": "REAL",
+        "predicted": "FAKE",
+        "probability_fake": 0.6219611167907715,
+        "error_type": "FALSE_FAKE"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_10552.jpg",
+        "actual": "REAL",
+        "predicted": "FAKE",
+        "probability_fake": 0.8478579521179199,
+        "error_type": "FALSE_FAKE"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_13933.jpg",
+        "actual": "REAL",
+        "predicted": "FAKE",
+        "probability_fake": 0.8367415070533752,
+        "error_type": "FALSE_FAKE"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_15645.jpg",
+        "actual": "REAL",
+        "predicted": "FAKE",
+        "probability_fake": 0.6615766286849976,
+        "error_type": "FALSE_FAKE"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_16382.jpg",
+        "actual": "REAL",
+        "predicted": "FAKE",
+        "probability_fake": 0.606148898601532,
+        "error_type": "FALSE_FAKE"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_19587.jpg",
+        "actual": "REAL",
+        "predicted": "FAKE",
+        "probability_fake": 0.6987917423248291,
+        "error_type": "FALSE_FAKE"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_22744.jpg",
+        "actual": "REAL",
+        "predicted": "FAKE",
+        "probability_fake": 0.5380877256393433,
+        "error_type": "FALSE_FAKE"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_22810.jpg",
+        "actual": "REAL",
+        "predicted": "FAKE",
+        "probability_fake": 0.9916893243789673,
+        "error_type": "FALSE_FAKE"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_23202.jpg",
+        "actual": "REAL",
+        "predicted": "FAKE",
+        "probability_fake": 0.6118307709693909,
+        "error_type": "FALSE_FAKE"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_26573.jpg",
+        "actual": "REAL",
+        "predicted": "FAKE",
+        "probability_fake": 0.997799813747406,
+        "error_type": "FALSE_FAKE"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_28152.jpg",
+        "actual": "REAL",
+        "predicted": "FAKE",
+        "probability_fake": 0.9837925434112549,
+        "error_type": "FALSE_FAKE"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_29552.jpg",
+        "actual": "REAL",
+        "predicted": "FAKE",
+        "probability_fake": 0.9965117573738098,
+        "error_type": "FALSE_FAKE"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_32224.jpg",
+        "actual": "REAL",
+        "predicted": "FAKE",
+        "probability_fake": 0.6373122334480286,
+        "error_type": "FALSE_FAKE"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_33129.jpg",
+        "actual": "REAL",
+        "predicted": "FAKE",
+        "probability_fake": 0.9237385392189026,
+        "error_type": "FALSE_FAKE"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_34822.jpg",
+        "actual": "REAL",
+        "predicted": "FAKE",
+        "probability_fake": 0.8624832630157471,
+        "error_type": "FALSE_FAKE"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_35335.jpg",
+        "actual": "REAL",
+        "predicted": "FAKE",
+        "probability_fake": 0.9019457697868347,
+        "error_type": "FALSE_FAKE"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_37388.jpg",
+        "actual": "REAL",
+        "predicted": "FAKE",
+        "probability_fake": 0.564186692237854,
+        "error_type": "FALSE_FAKE"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_44049.jpg",
+        "actual": "REAL",
+        "predicted": "FAKE",
+        "probability_fake": 0.8170792460441589,
+        "error_type": "FALSE_FAKE"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_45547.jpg",
+        "actual": "REAL",
+        "predicted": "FAKE",
+        "probability_fake": 0.5384407043457031,
+        "error_type": "FALSE_FAKE"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_46668.jpg",
+        "actual": "REAL",
+        "predicted": "FAKE",
+        "probability_fake": 0.8643913865089417,
+        "error_type": "FALSE_FAKE"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_47033.jpg",
+        "actual": "REAL",
+        "predicted": "FAKE",
+        "probability_fake": 0.8152791261672974,
+        "error_type": "FALSE_FAKE"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_47101.jpg",
+        "actual": "REAL",
+        "predicted": "FAKE",
+        "probability_fake": 0.9934440851211548,
+        "error_type": "FALSE_FAKE"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_48893.jpg",
+        "actual": "REAL",
+        "predicted": "FAKE",
+        "probability_fake": 0.608822226524353,
+        "error_type": "FALSE_FAKE"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_48932.jpg",
+        "actual": "REAL",
+        "predicted": "FAKE",
+        "probability_fake": 0.991054117679596,
+        "error_type": "FALSE_FAKE"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_49075.jpg",
+        "actual": "REAL",
+        "predicted": "FAKE",
+        "probability_fake": 0.7122635841369629,
+        "error_type": "FALSE_FAKE"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_49076.jpg",
+        "actual": "REAL",
+        "predicted": "FAKE",
+        "probability_fake": 0.9662542939186096,
+        "error_type": "FALSE_FAKE"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_49123.jpg",
+        "actual": "REAL",
+        "predicted": "FAKE",
+        "probability_fake": 0.9597941040992737,
+        "error_type": "FALSE_FAKE"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_49232.jpg",
+        "actual": "REAL",
+        "predicted": "FAKE",
+        "probability_fake": 0.5993978977203369,
+        "error_type": "FALSE_FAKE"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_49326.jpg",
+        "actual": "REAL",
+        "predicted": "FAKE",
+        "probability_fake": 0.6210639476776123,
+        "error_type": "FALSE_FAKE"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_49354.jpg",
+        "actual": "REAL",
+        "predicted": "FAKE",
+        "probability_fake": 0.9983831644058228,
+        "error_type": "FALSE_FAKE"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_49355.jpg",
+        "actual": "REAL",
+        "predicted": "FAKE",
+        "probability_fake": 0.8646438717842102,
+        "error_type": "FALSE_FAKE"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_49443.jpg",
+        "actual": "REAL",
+        "predicted": "FAKE",
+        "probability_fake": 0.5963960289955139,
+        "error_type": "FALSE_FAKE"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_49556.jpg",
+        "actual": "REAL",
+        "predicted": "FAKE",
+        "probability_fake": 0.870492160320282,
+        "error_type": "FALSE_FAKE"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_49568.jpg",
+        "actual": "REAL",
+        "predicted": "FAKE",
+        "probability_fake": 0.7780320644378662,
+        "error_type": "FALSE_FAKE"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_49605.jpg",
+        "actual": "REAL",
+        "predicted": "FAKE",
+        "probability_fake": 0.9163926839828491,
+        "error_type": "FALSE_FAKE"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_49705.jpg",
+        "actual": "REAL",
+        "predicted": "FAKE",
+        "probability_fake": 0.7062351107597351,
+        "error_type": "FALSE_FAKE"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_49724.jpg",
+        "actual": "REAL",
+        "predicted": "FAKE",
+        "probability_fake": 0.8502178192138672,
+        "error_type": "FALSE_FAKE"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_49826.jpg",
+        "actual": "REAL",
+        "predicted": "FAKE",
+        "probability_fake": 0.9989179372787476,
+        "error_type": "FALSE_FAKE"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_49835.jpg",
+        "actual": "REAL",
+        "predicted": "FAKE",
+        "probability_fake": 0.8149361610412598,
+        "error_type": "FALSE_FAKE"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_49886.jpg",
+        "actual": "REAL",
+        "predicted": "FAKE",
+        "probability_fake": 0.9845714569091797,
+        "error_type": "FALSE_FAKE"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_50984.jpg",
+        "actual": "REAL",
+        "predicted": "FAKE",
+        "probability_fake": 0.901670515537262,
+        "error_type": "FALSE_FAKE"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_54320.jpg",
+        "actual": "REAL",
+        "predicted": "FAKE",
+        "probability_fake": 0.8497698307037354,
+        "error_type": "FALSE_FAKE"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_55572.jpg",
+        "actual": "REAL",
+        "predicted": "FAKE",
+        "probability_fake": 0.5718955993652344,
+        "error_type": "FALSE_FAKE"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_56857.jpg",
+        "actual": "REAL",
+        "predicted": "FAKE",
+        "probability_fake": 0.9198104739189148,
+        "error_type": "FALSE_FAKE"
+    },
+    {
+        "image": "C:\\Users\\am842\\Deepfake detection\\dataset\\real\\real_57479.jpg",
+        "actual": "REAL",
+        "predicted": "FAKE",
+        "probability_fake": 0.9328676462173462,
+        "error_type": "FALSE_FAKE"
+    }
+]

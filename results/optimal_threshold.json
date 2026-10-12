@@ -1,0 +1,7 @@
+{
+    "threshold": 0.47999999999999976,
+    "validation_accuracy": 0.9907983524669178,
+    "validation_precision": 0.9907337367624811,
+    "validation_recall": 0.989423984891407,
+    "validation_f1": 0.9900784276670132
+}

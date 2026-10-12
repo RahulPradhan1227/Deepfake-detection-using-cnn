@@ -1,0 +1,126 @@
+{
+  "method": "MTCNN largest-face extraction followed by the app's 224x224 resize and ImageNet normalization.",
+  "class_mapping": {
+    "0": "REAL",
+    "1": "FAKE"
+  },
+  "calibration_source": "C:\\Users\\am842\\Downloads\\archive (1)\\ddata\\train",
+  "calibration_per_class_requested": 3000,
+  "calibration_counts": {
+    "original_images": 6000,
+    "face_detected": 6000,
+    "no_face_detected": 0,
+    "unreadable_images": 0,
+    "processing_errors": 0,
+    "face_detection_coverage": 1.0
+  },
+  "calibration_threshold": 0.5238820314407349,
+  "calibration_fake_f1": 0.9396351575451053,
+  "test_source": "C:\\Users\\am842\\Downloads\\archive (1)\\ddata\\test",
+  "test_counts": {
+    "original_images": 21776,
+    "face_detected": 21678,
+    "no_face_detected": 98,
+    "unreadable_images": 0,
+    "processing_errors": 0,
+    "face_detection_coverage": 0.9954996326230713
+  },
+  "threshold_results": {
+    "old_model_0.5": {
+      "threshold": 0.5,
+      "accuracy": 0.9898975920287849,
+      "precision_fake": 0.9961977186311787,
+      "recall_fake": 0.9826889786497404,
+      "f1_fake": 0.9893972403776325,
+      "roc_auc": 0.9995536639956676,
+      "real_correct": 11241,
+      "real_predicted_fake": 39,
+      "fake_predicted_real": 180,
+      "fake_correct": 10218,
+      "confusion_matrix": [
+        [
+          11241,
+          39
+        ],
+        [
+          180,
+          10218
+        ]
+      ],
+      "evaluated_faces": 21678
+    },
+    "old_model_0.008": {
+      "threshold": 0.008,
+      "accuracy": 0.9869452901559185,
+      "precision_fake": 0.9752842777934405,
+      "recall_fake": 0.9980765531833045,
+      "f1_fake": 0.9865487903417463,
+      "roc_auc": 0.9995536639956676,
+      "real_correct": 11017,
+      "real_predicted_fake": 263,
+      "fake_predicted_real": 20,
+      "fake_correct": 10378,
+      "confusion_matrix": [
+        [
+          11017,
+          263
+        ],
+        [
+          20,
+          10378
+        ]
+      ],
+      "evaluated_faces": 21678
+    },
+    "new_model_0.5": {
+      "threshold": 0.5,
+      "accuracy": 0.969877294953409,
+      "precision_fake": 0.9874937468734367,
+      "recall_fake": 0.9492210040392384,
+      "f1_fake": 0.9679792085519541,
+      "roc_auc": 0.9968132169443387,
+      "real_correct": 11155,
+      "real_predicted_fake": 125,
+      "fake_predicted_real": 528,
+      "fake_correct": 9870,
+      "confusion_matrix": [
+        [
+          11155,
+          125
+        ],
+        [
+          528,
+          9870
+        ]
+      ],
+      "evaluated_faces": 21678
+    },
+    "new_model_calibrated": {
+      "threshold": 0.5238820314407349,
+      "accuracy": 0.9684472737337393,
+      "precision_fake": 0.9887301267860736,
+      "recall_fake": 0.9449894210425082,
+      "f1_fake": 0.9663650668764752,
+      "roc_auc": 0.9968132169443387,
+      "real_correct": 11168,
+      "real_predicted_fake": 112,
+      "fake_predicted_real": 572,
+      "fake_correct": 9826,
+      "confusion_matrix": [
+        [
+          11168,
+          112
+        ],
+        [
+          572,
+          9826
+        ]
+      ],
+      "evaluated_faces": 21678
+    }
+  },
+  "checkpoints": {
+    "old_model": "C:\\Users\\am842\\Deepfake detection\\models\\deepfake_efficientnet_b0_final.pth",
+    "new_model": "C:\\Users\\am842\\Deepfake detection\\models\\deepfake_efficientnet_b0_30k_experiment.pth"
+  }
+}

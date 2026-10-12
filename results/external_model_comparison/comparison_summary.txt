@@ -1,0 +1,42 @@
+EXTERNAL TEST MODEL COMPARISON
+============================================================
+Test images: 21776
+REAL images: 11377
+FAKE images: 10399
+
+
+OLD_MODEL
+----------------------------------------
+Threshold: 0.5
+Accuracy: 0.812730
+Precision (FAKE): 0.907544
+Recall (FAKE): 0.676796
+F1 (FAKE): 0.775366
+ROC-AUC: 0.932749
+Confusion matrix: [[10660, 717], [3361, 7038]]
+FAKE predicted REAL: 3361
+REAL predicted FAKE: 717
+
+Threshold: 0.008
+Accuracy: 0.864713
+Precision (FAKE): 0.833946
+Recall (FAKE): 0.894894
+F1 (FAKE): 0.863345
+ROC-AUC: 0.932749
+Confusion matrix: [[9524, 1853], [1093, 9306]]
+FAKE predicted REAL: 1093
+REAL predicted FAKE: 1853
+
+
+NEW_MODEL
+----------------------------------------
+Threshold: 0.5
+Accuracy: 0.813189
+Precision (FAKE): 0.985283
+Recall (FAKE): 0.618040
+F1 (FAKE): 0.759603
+ROC-AUC: 0.972720
+Confusion matrix: [[11281, 96], [3972, 6427]]
+FAKE predicted REAL: 3972
+REAL predicted FAKE: 96
+

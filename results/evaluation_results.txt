@@ -1,0 +1,27 @@
+DEEPFAKE DETECTION - MODEL EVALUATION
+============================================================
+
+Accuracy  : 0.9901
+Precision : 0.9902
+Recall    : 0.9887
+F1 Score  : 0.9894
+AUC-ROC   : 0.9992
+
+CONFUSION MATRIX
+[[6016   52]
+ [  60 5235]]
+
+True Negative : 6016
+False Positive: 52
+False Negative: 60
+True Positive : 5235
+
+CLASSIFICATION REPORT
+              precision    recall  f1-score   support
+
+        REAL       0.99      0.99      0.99      6068
+        FAKE       0.99      0.99      0.99      5295
+
+    accuracy                           0.99     11363
+   macro avg       0.99      0.99      0.99     11363
+weighted avg       0.99      0.99      0.99     11363

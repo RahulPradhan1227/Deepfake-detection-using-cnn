@@ -1,0 +1,29 @@
+# Python environment
+.venv/
+__pycache__/
+*.py[cod]
+
+# Secrets
+.env
+.env.*
+
+# Dataset and test images
+dataset/
+test_images/
+
+# Model checkpoints (avoid large uploads)
+models/*.pth
+models/*.pt
+
+# Temporary files
+*.log
+.DS_Store
+# Misclassified face images
+results/misclassified/
+
+# Large comparison arrays
+results/**/*.npz
+
+# Model checkpoints
+models/*.pth
+models/*.pt

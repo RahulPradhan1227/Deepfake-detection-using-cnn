@@ -1,0 +1,79 @@
+{
+  "project_root": "C:\\Users\\am842\\Deepfake detection",
+  "split_file": "C:\\Users\\am842\\Deepfake detection\\results\\data_split.json",
+  "expected_mapping": {
+    "0": "REAL",
+    "1": "FAKE"
+  },
+  "splits": {
+    "train": {
+      "sample_count": 91133,
+      "label_counts": {
+        "1": 42358,
+        "0": 48775
+      },
+      "folder_counts": {
+        "fake": 42358,
+        "real": 48775
+      },
+      "missing_file_count": 0,
+      "missing_file_examples": [],
+      "invalid_label_count": 0,
+      "invalid_label_examples": [],
+      "folder_label_mismatch_count": 0,
+      "folder_label_mismatch_examples": [],
+      "repeated_path_count": 0,
+      "exact_hashes_checked": 91133
+    },
+    "validation": {
+      "sample_count": 11363,
+      "label_counts": {
+        "1": 5292,
+        "0": 6071
+      },
+      "folder_counts": {
+        "fake": 5292,
+        "real": 6071
+      },
+      "missing_file_count": 0,
+      "missing_file_examples": [],
+      "invalid_label_count": 0,
+      "invalid_label_examples": [],
+      "folder_label_mismatch_count": 0,
+      "folder_label_mismatch_examples": [],
+      "repeated_path_count": 0,
+      "exact_hashes_checked": 11363
+    },
+    "test": {
+      "sample_count": 11363,
+      "label_counts": {
+        "1": 5295,
+        "0": 6068
+      },
+      "folder_counts": {
+        "fake": 5295,
+        "real": 6068
+      },
+      "missing_file_count": 0,
+      "missing_file_examples": [],
+      "invalid_label_count": 0,
+      "invalid_label_examples": [],
+      "folder_label_mismatch_count": 0,
+      "folder_label_mismatch_examples": [],
+      "repeated_path_count": 0,
+      "exact_hashes_checked": 11363
+    }
+  },
+  "errors": [],
+  "warnings": [],
+  "cross_split_path_duplicates": [],
+  "cross_split_exact_content_duplicates": [],
+  "same_split_exact_content_duplicates": [],
+  "summary": {
+    "total_existing_images_hashed": 113859,
+    "total_bytes_hashed": 2357241280,
+    "cross_split_path_duplicate_groups": 0,
+    "cross_split_exact_duplicate_groups": 0,
+    "same_split_exact_duplicate_groups": 0
+  }
+}

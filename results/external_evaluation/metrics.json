@@ -1,0 +1,33 @@
+{
+    "evaluation": "external_test",
+    "checkpoint": "C:\\Users\\am842\\Deepfake detection\\models\\deepfake_efficientnet_b0_final.pth",
+    "dataset": "C:\\Users\\am842\\Downloads\\archive (1)\\ddata\\test",
+    "image_size": 224,
+    "threshold": 0.5,
+    "label_mapping": {
+        "REAL": 0,
+        "FAKE": 1
+    },
+    "images_discovered": 21776,
+    "images_evaluated": 21776,
+    "images_skipped": 0,
+    "real_images_evaluated": 11377,
+    "fake_images_evaluated": 10399,
+    "accuracy": 0.8127296105804556,
+    "precision_fake_positive": 0.9075435203094777,
+    "recall_fake_positive": 0.6767958457543994,
+    "f1_fake_positive": 0.7753663104549962,
+    "roc_auc": 0.9327491564218008,
+    "confusion_matrix_labels_REAL_FAKE": [
+        [
+            10660,
+            717
+        ],
+        [
+            3361,
+            7038
+        ]
+    ],
+    "false_fake_real_images_predicted_fake": 717,
+    "false_real_fake_images_predicted_real": 3361
+}
